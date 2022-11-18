@@ -1,0 +1,23 @@
+{
+  "name": "pesto-week-nine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisisyashgarg/pesto-week-nine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisisyashgarg/pesto-week-nine/issues"
+  },
+  "homepage": "https://github.com/thisisyashgarg/pesto-week-nine#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "yarn": "^1.22.19"
+  }
+}
