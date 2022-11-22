@@ -22,7 +22,6 @@ class classComponent extends React.Component{
 
 //function component
 function functionComponent(){
-    
     return (<h1>I am a function component with name </h1>);
     
 }
